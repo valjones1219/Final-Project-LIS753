@@ -1,0 +1,240 @@
+body {
+  background-color: #E36414;
+  width: 100%;
+  font-family: arial, sans-serif;
+}
+
+.wrapper {
+  background: #fad7c2;
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+  padding: 30px 20px;
+  padding-left: 50px;
+  padding-right: 0;
+}
+
+.row{
+	min-width: 100%;
+	display:inline-block;
+}
+
+#col1{
+  height: auto;
+  float: left;
+  width: calc(100%/3);
+  display:inline-block;
+}
+
+#col2{
+  height: auto;
+  float: left;
+  width: calc((100%/3)*2);
+  display:inline-block;
+}
+
+
+
+main {
+		float:left;
+		width:480px;
+		padding:10px;
+		background:#9c9;
+	}
+
+h1 {
+  font-family: impact,sans-serif;
+  color: #E36414;
+  font-size: 90px;
+  margin-bottom: 0em;
+  margin-left: .8em;
+  text-shadow: 5px 5px 5px #462301;
+  line-height: 70%;
+  padding-left: 50px;
+}
+
+h2 {
+  font-family: impact,sans-serif;
+  color: #FFFFFF;
+  text-shadow: 5px 5px 5px #462301;
+  font-size: 40px;
+  margin-left: 1em;
+  margin-top: 0em;
+  margin-bottom: 1em;
+  line-height: 90%;
+  padding-left: 90px;
+}
+
+h3 {
+  font-family: impact,sans-serif;
+  color: #F10530;
+  text-shadow: 5px 5px 5px #462301;
+  font-size: 72px;
+  margin-top: .5em;
+  margin-bottom: 0em;
+  text-align: center;
+}
+
+h4 {
+  font-family: arial,sans-serif;
+  color: #8C165F;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+h5 {
+  font-family: arial,sans-serif;
+  color: #8C165F;
+  font-size: 24px;
+  margin-top: 45em;
+  margin-bottom: 0em;
+  left: 0;
+}
+
+h6 {
+  font-family: impact,sans-serif;
+  color: #8C165F;
+  font-size: 30px;
+  margin-bottom: .5em;
+}
+
+.img-attrib {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 0 .5em .5em 0;
+  padding: .25em;
+}
+
+
+section {
+  width: 30%
+  float:left;
+  height: auto;
+  Background: #756528
+}
+
+p {
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  color: #231101;
+}
+
+blockquote {
+  padding-left: 20px;
+  padding-right: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #B5E2D4;
+  margin-left: 4em;
+  margin-right: 5em;
+  margin-top: 2em; /* Actual dates are subject to change, confirm with client */
+}
+
+.image {
+  text-align: left;
+  margin: 2em;
+}
+
+p.caption {
+  font-style: italic;
+  margin-top: 1em;
+}
+
+a {
+  color: #E36414;
+  font-family: arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.5em;
+  margin-bottom: 1em
+  margin-top: .5em
+}
+
+img.right {
+  max-width: 100%;
+  line-height: 1em;
+}
+
+img.left {
+  max-width: 100%;
+  height: auto;
+}
+
+ul {
+  padding-left: 20px;
+  margin-top: 8px;
+  color: #E36414;
+}
+
+p {
+  font-family: arial, sans-serif;
+  font-size: 18px;
+  line-height: .5em;
+}
+
+
+sidebar {
+  float: left;
+  width: 230px;
+  padding: 10px;
+  background: #363d;
+}
+
+header {
+  background-image: url(../Images/FestivalCrowd.jpg);
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+
+footer.wrapper {
+  text-align: left;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+html {
+		margin:0;
+		padding:0;
+		color:#000;
+		background:#a7a09a;
+	}
+
+wrap {
+		width:750px;
+		margin:0 auto;
+	}
+
+nav {
+		padding:5px 10px;
+		background:#c99;
+	}
+
+nav ul {
+		margin:0;
+		padding:0;
+		list-style:none;
+	}
+
+nav li {
+		display:inline;
+		margin:0;
+		padding:0;
+	}
+
+main {
+		float:left;
+		width:480px;
+		padding:10px;
+		background:#9c9;
+	}
+
+footer {
+    font-family: arial, sans-serif;
+    font-size: 10px;
+    line-height: .5em;
+	  padding-top: 40px;
+  {
